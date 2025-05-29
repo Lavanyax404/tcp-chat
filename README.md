@@ -39,3 +39,6 @@ A terminal-based multi-client chat system built using Python's `socket` and `thr
 ```bash
 git clone https://github.com/yourusername/tcp-chat-app.git
 cd tcp-chat-app
+
+python server.py #terminal 1
+streamlit run streamlit_client.py #terminal 2
